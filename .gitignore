@@ -1,0 +1,28 @@
+
+# Created by https://www.gitignore.io/api/elixir,visualstudiocode
+
+### Elixir ###
+/_build
+/cover
+/deps
+/doc
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
+
+### Elixir Patch ###
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+
+
+# End of https://www.gitignore.io/api/elixir,visualstudiocode
+
+/.elixir_ls/
+/humble_dl
+
