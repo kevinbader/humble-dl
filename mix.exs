@@ -26,8 +26,6 @@ defmodule HumbleDl.Mixfile do
       {:httpoison, "~> 1.0"},
       {:download, "~> 0.0.4"},
       {:floki, "~> 0.20.0"}
-      # {:meeseeks, "~> 0.9.2"},
-      # {:meeseeks_html5ever, "~> 0.8.1"}
     ]
   end
 end
